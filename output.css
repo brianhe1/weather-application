@@ -636,20 +636,12 @@ html {
   --tw-bg-opacity: 0.3;
 }
 
-.bg-day-time {
-  background-image: url('/img/weather-day.png');
-}
-
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 
 .bg-gradient-to-tr {
   background-image: linear-gradient(to top right, var(--tw-gradient-stops));
-}
-
-.bg-night-time {
-  background-image: url('/img/weather-night.png');
 }
 
 .from-indigo-950 {
