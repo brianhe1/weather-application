@@ -820,11 +820,11 @@ html {
   outline-offset: 2px;
 }
 
-.day-time {
+.bg-day-time {
   background-image: url('weather-day.png');
 }
 
-.night-time {
+.bg-night-time {
   background-image: url('weather-night.png')";
 } 
 
